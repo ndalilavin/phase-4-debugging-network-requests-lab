@@ -63,11 +63,14 @@ developing your own process.
 - Add a new toy when the toy form is submitted
 
   - How I debugged:
+  name error from the backend, changed Toys to Toy.
 
 - Update the number of likes for a toy
 
   - How I debugged:
+  Added as json value return in the backend create.
 
 - Donate a toy to Goodwill (and delete it from our database)
 
   - How I debugged:
+   Added a route for destroy
